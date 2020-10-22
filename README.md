@@ -2,5 +2,5 @@
 
 
 - [ ] Create nodejs api
-- [ ] Make backend with api and reat
+- [ ] Make backend with api and react
 
