@@ -1,2 +1,6 @@
 # task_todo
-task_todo
+
+
+- [ ] Create nodejs api
+- [ ] Make backend with api and reat
+
