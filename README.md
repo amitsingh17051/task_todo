@@ -2,5 +2,6 @@
 
 
 - [ ] Create nodejs api
-- [ ] Make backend with api and react
+- [ ] Make admin panel with api and react
+- [ ] Show api data with api
 
